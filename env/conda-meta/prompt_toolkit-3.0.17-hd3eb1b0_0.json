@@ -1,0 +1,37 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "prompt-toolkit >=3.0.17,<3.0.18.0a0"
+  ],
+  "extracted_package_dir": "/Users/nabilfatih/opt/anaconda3/pkgs/prompt_toolkit-3.0.17-hd3eb1b0_0",
+  "features": "",
+  "files": [],
+  "fn": "prompt_toolkit-3.0.17-hd3eb1b0_0.conda",
+  "legacy_bz2_md5": "d271c304280ad8f08f9a74e6dc93d66c",
+  "legacy_bz2_size": 11825,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/Users/nabilfatih/opt/anaconda3/pkgs/prompt_toolkit-3.0.17-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "233ce7cc76b6e3a11b14ad33d538f717",
+  "name": "prompt_toolkit",
+  "noarch": "generic",
+  "package_tarball_full_path": "/Users/nabilfatih/opt/anaconda3/pkgs/prompt_toolkit-3.0.17-hd3eb1b0_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f60aab1444d826d2c67d6e58cd408dc87635eaf102bd0a49a25f175ed21cc6a8",
+  "size": 12232,
+  "subdir": "noarch",
+  "timestamp": 1616415463951,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/prompt_toolkit-3.0.17-hd3eb1b0_0.conda",
+  "version": "3.0.17"
+}

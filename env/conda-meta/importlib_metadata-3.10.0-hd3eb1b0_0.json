@@ -1,0 +1,38 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata >=3.10.0,<3.10.1.0a0"
+  ],
+  "extracted_package_dir": "/Users/nabilfatih/opt/anaconda3/pkgs/importlib_metadata-3.10.0-hd3eb1b0_0",
+  "features": "",
+  "files": [],
+  "fn": "importlib_metadata-3.10.0-hd3eb1b0_0.conda",
+  "legacy_bz2_md5": "e26f788e462b0840aae4552b00ee715b",
+  "legacy_bz2_size": 10946,
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "/Users/nabilfatih/opt/anaconda3/pkgs/importlib_metadata-3.10.0-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "e88ee7c6f1e7faf52d9d16f5720d467e",
+  "name": "importlib_metadata",
+  "noarch": "generic",
+  "package_tarball_full_path": "/Users/nabilfatih/opt/anaconda3/pkgs/importlib_metadata-3.10.0-hd3eb1b0_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6b5ed8817cfa012e067790d68cc5e462d2d116ad41aa1cc7b0139d9698327aeb",
+  "size": 11357,
+  "subdir": "noarch",
+  "timestamp": 1617877576196,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/importlib_metadata-3.10.0-hd3eb1b0_0.conda",
+  "version": "3.10.0"
+}

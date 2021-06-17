@@ -1,0 +1,11 @@
+prefix=/Users/nabilfatih/Desktop/bluebook-for-bulldozers/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/nabilfatih/Desktop/bluebook-for-bulldozers/env/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

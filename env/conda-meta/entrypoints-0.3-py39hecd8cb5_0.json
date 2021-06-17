@@ -1,0 +1,62 @@
+{
+  "build": "py39hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/Users/nabilfatih/opt/anaconda3/pkgs/entrypoints-0.3-py39hecd8cb5_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/__pycache__/entrypoints.cpython-39.pyc",
+    "lib/python3.9/site-packages/entrypoints-0.3-py3.9.egg-info",
+    "lib/python3.9/site-packages/entrypoints.py"
+  ],
+  "fn": "entrypoints-0.3-py39hecd8cb5_0.conda",
+  "legacy_bz2_md5": "759b35c4031197096b635ceff8c27b42",
+  "legacy_bz2_size": 12094,
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/nabilfatih/opt/anaconda3/pkgs/entrypoints-0.3-py39hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "68e5ba5b882426ec480395a5fab589dc",
+  "name": "entrypoints",
+  "package_tarball_full_path": "/Users/nabilfatih/opt/anaconda3/pkgs/entrypoints-0.3-py39hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/__pycache__/entrypoints.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "df7858b67577b45ee61c92d11501554ae690a95bf128e1e3c59fb1a452b0bd5b",
+        "sha256_in_prefix": "df7858b67577b45ee61c92d11501554ae690a95bf128e1e3c59fb1a452b0bd5b",
+        "size_in_bytes": 7251
+      },
+      {
+        "_path": "lib/python3.9/site-packages/entrypoints-0.3-py3.9.egg-info",
+        "path_type": "hardlink",
+        "sha256": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "sha256_in_prefix": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "lib/python3.9/site-packages/entrypoints.py",
+        "path_type": "hardlink",
+        "sha256": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "sha256_in_prefix": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "size_in_bytes": 8262
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3c0443d5fb5dd3ea8ad734dd748f518479fea71c2a0c7842ebfc11890a171dbb",
+  "size": 12208,
+  "subdir": "osx-64",
+  "timestamp": 1607365056986,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/entrypoints-0.3-py39hecd8cb5_0.conda",
+  "version": "0.3"
+}

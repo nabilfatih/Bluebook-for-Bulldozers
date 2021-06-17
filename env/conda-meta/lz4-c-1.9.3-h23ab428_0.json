@@ -1,0 +1,162 @@
+{
+  "build": "h23ab428_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=10.0.0"
+  ],
+  "extracted_package_dir": "/Users/nabilfatih/opt/anaconda3/pkgs/lz4-c-1.9.3-h23ab428_0",
+  "features": "",
+  "files": [
+    "bin/lz4",
+    "bin/lz4c",
+    "bin/lz4cat",
+    "bin/unlz4",
+    "include/lz4.h",
+    "include/lz4frame.h",
+    "include/lz4frame_static.h",
+    "include/lz4hc.h",
+    "lib/liblz4.1.9.3.dylib",
+    "lib/liblz4.1.dylib",
+    "lib/liblz4.dylib",
+    "lib/pkgconfig/liblz4.pc",
+    "share/man/man1/lz4.1",
+    "share/man/man1/lz4c.1",
+    "share/man/man1/lz4cat.1",
+    "share/man/man1/unlz4.1"
+  ],
+  "fn": "lz4-c-1.9.3-h23ab428_0.conda",
+  "legacy_bz2_md5": "1498517255619df4d58a5aaa8227e03f",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/Users/nabilfatih/opt/anaconda3/pkgs/lz4-c-1.9.3-h23ab428_0",
+    "type": 1
+  },
+  "md5": "4cca471b75a5c443a22905b22f5e33ac",
+  "name": "lz4-c",
+  "package_tarball_full_path": "/Users/nabilfatih/opt/anaconda3/pkgs/lz4-c-1.9.3-h23ab428_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/lz4",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1e2c9fa7-c7d8-46cc-65da-60693d572c70/volume/lz4-c_1611255499340/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "17f3ca0aa7c5c81a90bed13c4cb34135f5a90da63ff25a8bbcf1a9b21b5965ab",
+        "sha256_in_prefix": "88d8151cb2e66c43fceb73dc77688c45e6a8bdb7ad4c6c58ef6be2f24a5678c2",
+        "size_in_bytes": 236792
+      },
+      {
+        "_path": "bin/lz4c",
+        "path_type": "softlink",
+        "sha256": "17f3ca0aa7c5c81a90bed13c4cb34135f5a90da63ff25a8bbcf1a9b21b5965ab",
+        "size_in_bytes": 236792
+      },
+      {
+        "_path": "bin/lz4cat",
+        "path_type": "softlink",
+        "sha256": "17f3ca0aa7c5c81a90bed13c4cb34135f5a90da63ff25a8bbcf1a9b21b5965ab",
+        "size_in_bytes": 236792
+      },
+      {
+        "_path": "bin/unlz4",
+        "path_type": "softlink",
+        "sha256": "17f3ca0aa7c5c81a90bed13c4cb34135f5a90da63ff25a8bbcf1a9b21b5965ab",
+        "size_in_bytes": 236792
+      },
+      {
+        "_path": "include/lz4.h",
+        "path_type": "hardlink",
+        "sha256": "c9b52a14c2c93fe5c435a09054cc8f1bf5d94a3ce1a38dc51296a92ce409f8e4",
+        "sha256_in_prefix": "c9b52a14c2c93fe5c435a09054cc8f1bf5d94a3ce1a38dc51296a92ce409f8e4",
+        "size_in_bytes": 40861
+      },
+      {
+        "_path": "include/lz4frame.h",
+        "path_type": "hardlink",
+        "sha256": "69edc35d9a4e62cfc5639150cfebff4e4749c4923bf7d89e77a8d5eda8daf661",
+        "sha256_in_prefix": "69edc35d9a4e62cfc5639150cfebff4e4749c4923bf7d89e77a8d5eda8daf661",
+        "size_in_bytes": 28899
+      },
+      {
+        "_path": "include/lz4frame_static.h",
+        "path_type": "hardlink",
+        "sha256": "1662c6453229a8d65bfa349b9cd3c01d1fee440ada16a8e99a7083d6cb08a4c0",
+        "sha256_in_prefix": "1662c6453229a8d65bfa349b9cd3c01d1fee440ada16a8e99a7083d6cb08a4c0",
+        "size_in_bytes": 2044
+      },
+      {
+        "_path": "include/lz4hc.h",
+        "path_type": "hardlink",
+        "sha256": "295d766cd0769ffc74c63e83ca5b1dfc0da16916be79286f5eb5de5abd1611da",
+        "sha256_in_prefix": "295d766cd0769ffc74c63e83ca5b1dfc0da16916be79286f5eb5de5abd1611da",
+        "size_in_bytes": 20165
+      },
+      {
+        "_path": "lib/liblz4.1.9.3.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1e2c9fa7-c7d8-46cc-65da-60693d572c70/volume/lz4-c_1611255499340/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "2ce58aa5951f2f47f20fc917f643430786ec745a0f221ab31ece75d6a3ea417e",
+        "sha256_in_prefix": "f0bb07ad9cd3271b47e8d41201f9c455468b81e4166310c1cad05906ce7e033a",
+        "size_in_bytes": 175968
+      },
+      {
+        "_path": "lib/liblz4.1.dylib",
+        "path_type": "softlink",
+        "sha256": "2ce58aa5951f2f47f20fc917f643430786ec745a0f221ab31ece75d6a3ea417e",
+        "size_in_bytes": 175968
+      },
+      {
+        "_path": "lib/liblz4.dylib",
+        "path_type": "softlink",
+        "sha256": "2ce58aa5951f2f47f20fc917f643430786ec745a0f221ab31ece75d6a3ea417e",
+        "size_in_bytes": 175968
+      },
+      {
+        "_path": "lib/pkgconfig/liblz4.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1e2c9fa7-c7d8-46cc-65da-60693d572c70/volume/lz4-c_1611255499340/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "e3d0844bacebf7aadf14e1ed97ec47bd02bbd61c479f903c96787237cf38c418",
+        "sha256_in_prefix": "61f2ac233772e4eaf8856c56304c94ac0d477824e342be6affb07087a6b913be",
+        "size_in_bytes": 1632
+      },
+      {
+        "_path": "share/man/man1/lz4.1",
+        "path_type": "hardlink",
+        "sha256": "22796ed3ff4fa56da7fee26a4e5f8407bb758f99183a3283cfd1a93c68373017",
+        "sha256_in_prefix": "22796ed3ff4fa56da7fee26a4e5f8407bb758f99183a3283cfd1a93c68373017",
+        "size_in_bytes": 9077
+      },
+      {
+        "_path": "share/man/man1/lz4c.1",
+        "path_type": "softlink",
+        "sha256": "22796ed3ff4fa56da7fee26a4e5f8407bb758f99183a3283cfd1a93c68373017",
+        "size_in_bytes": 9077
+      },
+      {
+        "_path": "share/man/man1/lz4cat.1",
+        "path_type": "softlink",
+        "sha256": "22796ed3ff4fa56da7fee26a4e5f8407bb758f99183a3283cfd1a93c68373017",
+        "size_in_bytes": 9077
+      },
+      {
+        "_path": "share/man/man1/unlz4.1",
+        "path_type": "softlink",
+        "sha256": "22796ed3ff4fa56da7fee26a4e5f8407bb758f99183a3283cfd1a93c68373017",
+        "size_in_bytes": 9077
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ad75c9598135b00329e0547dfac1db84a552571193c28cb301d5b94927fe5ad5",
+  "size": 143072,
+  "subdir": "osx-64",
+  "timestamp": 1611255534234,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/lz4-c-1.9.3-h23ab428_0.conda",
+  "version": "1.9.3"
+}

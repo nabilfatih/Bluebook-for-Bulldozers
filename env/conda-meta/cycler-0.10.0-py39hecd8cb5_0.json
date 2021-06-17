@@ -1,0 +1,93 @@
+{
+  "build": "py39hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "/Users/nabilfatih/opt/anaconda3/pkgs/cycler-0.10.0-py39hecd8cb5_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/__pycache__/cycler.cpython-39.pyc",
+    "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/PKG-INFO",
+    "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/SOURCES.txt",
+    "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/dependency_links.txt",
+    "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/requires.txt",
+    "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/top_level.txt",
+    "lib/python3.9/site-packages/cycler.py"
+  ],
+  "fn": "cycler-0.10.0-py39hecd8cb5_0.conda",
+  "legacy_bz2_md5": "60698669a54cc02ffc74d0da6f2c276a",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Users/nabilfatih/opt/anaconda3/pkgs/cycler-0.10.0-py39hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "1d29f5c4d0b3a37bcc25fb0817979156",
+  "name": "cycler",
+  "package_tarball_full_path": "/Users/nabilfatih/opt/anaconda3/pkgs/cycler-0.10.0-py39hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/__pycache__/cycler.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "62ee94878413ae441a5122eeb00b66a701cdf8dbff6d9e27098512c069e9630d",
+        "sha256_in_prefix": "62ee94878413ae441a5122eeb00b66a701cdf8dbff6d9e27098512c069e9630d",
+        "size_in_bytes": 16044
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "ce10e11635687c0d15e1439c333b47b7cb4b4e4b2e94e3ba47367ae1a8a2b1b2",
+        "sha256_in_prefix": "ce10e11635687c0d15e1439c333b47b7cb4b4e4b2e94e3ba47367ae1a8a2b1b2",
+        "size_in_bytes": 713
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "216f686325475774af8fa0d444763eaf9b802ace963f037b5268b21b57d3d9f4",
+        "sha256_in_prefix": "216f686325475774af8fa0d444763eaf9b802ace963f037b5268b21b57d3d9f4",
+        "size_in_bytes": 380
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cycler-0.10.0-py3.9.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21",
+        "sha256_in_prefix": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cycler.py",
+        "path_type": "hardlink",
+        "sha256": "79ddc6dfdba7bd5101ac16550f09c4d0516ba1136c38b91b27f4f0213e428c25",
+        "sha256_in_prefix": "79ddc6dfdba7bd5101ac16550f09c4d0516ba1136c38b91b27f4f0213e428c25",
+        "size_in_bytes": 15959
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b31d03b223f2e5fbddab10f57498512879d33d31feecbbc44ef10af387cee393",
+  "size": 15912,
+  "subdir": "osx-64",
+  "timestamp": 1607025537645,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/cycler-0.10.0-py39hecd8cb5_0.conda",
+  "version": "0.10.0"
+}
