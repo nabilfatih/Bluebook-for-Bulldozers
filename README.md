@@ -19,6 +19,8 @@ Sample submission files can be downloaded from the data page. Submission files s
   
  It's a virtual environment, I've already install all the tools that needed for this project using conda. You can use easily this environment.
  
+ **Note:** `predictions.csv` file is for submission in Kaggle. You will make this file inside `bulldozers.ipynb` notebook.
+ 
  ## GitHub's File Size Limnit
  
  Because GitHub has file size limit of 100.0 Mb, you should unzip `TrainAndValid.zip` file first, before use `bulldozers.ipynb` Notebook.
